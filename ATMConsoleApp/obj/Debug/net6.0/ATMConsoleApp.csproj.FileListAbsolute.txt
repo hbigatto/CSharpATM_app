@@ -1,0 +1,15 @@
+C:\Users\hbiga\source\repos\ATMConsoleApp\bin\Debug\net6.0\ATMConsoleApp.exe
+C:\Users\hbiga\source\repos\ATMConsoleApp\bin\Debug\net6.0\ATMConsoleApp.deps.json
+C:\Users\hbiga\source\repos\ATMConsoleApp\bin\Debug\net6.0\ATMConsoleApp.runtimeconfig.json
+C:\Users\hbiga\source\repos\ATMConsoleApp\bin\Debug\net6.0\ATMConsoleApp.dll
+C:\Users\hbiga\source\repos\ATMConsoleApp\bin\Debug\net6.0\ATMConsoleApp.pdb
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.AssemblyInfo.cs
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.dll
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\refint\ATMConsoleApp.dll
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.pdb
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ATMConsoleApp.genruntimeconfig.cache
+C:\Users\hbiga\source\repos\ATMConsoleApp\obj\Debug\net6.0\ref\ATMConsoleApp.dll
